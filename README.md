@@ -1,5 +1,6 @@
 # Periodic-Table-Search
-Given a search query, this program in the terminal will search for the element that corresponds to your query.
+Struggling to find a specific element on the periodic table out of the 118? No problem!
+Given a search query, this program in the terminal will find the element that corresponds to your query.
 
 ## Installation
 
