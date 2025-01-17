@@ -29,3 +29,4 @@ A search will then run and if an element has been found, it will be returned to 
 That's all!
 
 ## Have Fun! ##
+**Note:** The atomic masses listed in the data set are rounded to two decimal points. You may find a copy of the periodic table used in the program files.
